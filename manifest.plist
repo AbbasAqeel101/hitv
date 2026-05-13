@@ -11,15 +11,15 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/AbbasAqeel101/hitv/releases/download/V0.1/HiTV_1.2.ipa</string>
+                    <string>https://github.com/AbbasAqeel101/hitv/releases/download/V0.1/Hitv_1.0.2.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>te6ch.hi6t6v.mytvrr</string>
+                <string>com.nexastream-tech.qinktv</string>
                 <key>bundle-version</key>
-                <string>1.2</string>
+                <string>1.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
